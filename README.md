@@ -1,2 +1,3 @@
 # Anomaly_Detection
-![포스터_사진](https://user-images.githubusercontent.com/116819079/201794176-5bd0c41b-4268-4ffc-9f11-04953ffb9928.png)
+
+![2조 포스터_이미지](https://user-images.githubusercontent.com/116819079/201805071-ac6f8022-7925-4a20-8d85-6429eb780421.PNG)
